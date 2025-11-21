@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">KeyWatch</string>
+    <string name="accessibility_service_label">KeyWatch Monitor</string>
+    <string name="accessibility_service_description">Monitors typed text for logging</string>
+
+</resources>
