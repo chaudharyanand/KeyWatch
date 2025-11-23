@@ -27,7 +27,7 @@
             </intent-filter>
         </activity>
 
-        <!-- Accessibility Service -->
+        <!-- Accessibility Service space-->
         <!-- Accessibility Service -->
         <service
             android:name=".KeywordLoggerService"
