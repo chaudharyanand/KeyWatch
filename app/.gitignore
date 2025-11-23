@@ -1,1 +1,20 @@
-/build
+# Android / Studio
+/.gradle
+/.idea
+*.iml
+/local.properties
+/.cxx
+/build/
+/app/build/
+*/build/
+*.keystore
+
+# Release / output folders
+/app/release/
+/**/release/
+
+# Google services (keep locally only)
+app/google-services.json
+
+# Other
+.DS_Store
